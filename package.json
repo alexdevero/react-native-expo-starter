@@ -1,0 +1,66 @@
+{
+  "name": "react-native-expo-starter",
+  "version": "0.0.1",
+  "description": "Awesome starter template to help you build mobile app with React native and Expo.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/react-native-expo-starter.git"
+  },
+  "homepage": "https://github.com/alexdevero/react-native-expo-starter#readme",
+  "bugs": {
+    "url": "https://github.com/alexdevero/react-native-expo-starter/issues"
+  },
+  "author": {
+    "name": "",
+    "email": "x@y.com",
+    "url": "https://.com/"
+  },
+  "contributors": [
+    {
+      "name": "",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "keywords": [
+    "app",
+    "application",
+    "expo",
+    "javascript",
+    "mobile",
+    "mobile-app",
+    "mobile-application",
+    "react",
+    "react-native",
+    "starter",
+    "template"
+  ],
+  "engines": {
+    "node": ">=10.0",
+    "npm": ">=6.0",
+    "yarn": ">=1.10.0"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
+  },
+  "dependencies": {
+    "expo": "^31.0.2",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-navigation": "^2.18.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "jest-expo": "^31.0.0"
+  }
+}
