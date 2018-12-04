@@ -35,6 +35,7 @@
     "react",
     "react-native",
     "starter",
+    "starter-template",
     "template"
   ],
   "engines": {
