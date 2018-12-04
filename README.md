@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://alexdevero.com"><img alt="Built by DEVERO" src="https://badgen.net/badge/Built%20by/DEVERO/d30320"></a>
-  <a href="https://github.com/alexdevero/react-native-expo-starter/releases"><img alt="Current release" src="https://badgen.net/github/release/alexdevero/react-native-expo-starter.svg"></a>
+  <a href="https://github.com/alexdevero/react-native-expo-starter/releases"><img alt="Current release" src="https://badgen.net/github/release/alexdevero/react-native-expo-starter"></a>
 </p>
 
 # React Native & Expo Starter
